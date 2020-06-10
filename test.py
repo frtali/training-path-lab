@@ -13,7 +13,7 @@ ch.setFormatter(formatter)
 root.addHandler(ch)
 
 if __name__ == "__main__":
-  ldclient.set_sdk_key("sdk-2b769201-47a8-40d2-9984-1cfbe3e537bb")
+  ldclient.set_sdk_key("SET-SDK-KEY")
 
   user = {
     "key": "alice@example.com",
